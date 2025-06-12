@@ -1,0 +1,4 @@
+What is the capital of France?;Paris,London,Berlin,Madrid;Paris
+Which language is used for web development?;Python,HTML,C++,Java;HTML
+2 + 2 = ?;3,4,5,6;4
+Is the sky blue?;True,False;True
